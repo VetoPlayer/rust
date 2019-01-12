@@ -13,3 +13,13 @@ fn main(){
 
 
 // The question mark denotes a Macro call. TODO
+
+
+// Cargo
+//
+// Cargo is the Rust build system. It comes with the developers tools you have
+// already downloaded.
+// Cargo helps you a lot, handling:
+//    -> Downloads the dependency libraries
+//    -> Builds the dependency libraries
+//    -> Builds your code
